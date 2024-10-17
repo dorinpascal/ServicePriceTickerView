@@ -1,5 +1,4 @@
 ﻿using AutoFixture;
-using Azure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -10,11 +9,6 @@ using Stock_Price_Service.Dto;
 using Stock_Price_Service.Functions.Http;
 using Stock_Price_Service.Models;
 using Stock_Price_Service.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ServicePriceTickerViewTests.FunctionTests;
 
