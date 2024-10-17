@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SimpleTestClient/bin/Debug/net8.0
+/SimpleTestClient/obj
+/ServicePriceTickerViewTests/bin/Debug/net8.0
+/ServicePriceTickerViewTests/obj
+/.vs
